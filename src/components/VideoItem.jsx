@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react';
+import React from 'react';
 import parse from 'html-react-parser';
 import Moment from 'react-moment';
 import './videoitem.css';
